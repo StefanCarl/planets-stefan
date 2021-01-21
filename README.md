@@ -1,12 +1,12 @@
 
-## this is my repo
+# this is my repo
 
-# data
+## data
 1. mars.txt : all about mars
 1. pluto.txt :
 1. results :
 
-# results
+## results
 * on mars
 * on pluto
 
