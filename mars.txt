@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 maybe its not red 
+=======
+may be its not red 
+cold and dry
+>>>>>>> 965f3705d60636509e680fa2ce06fc7652cb0292
 to far away
+A new line here too
 Hello Stefan, how are you?
+<<<<<<< HEAD
 xxxx
 yyyy
 
+=======
+Here is a new line from Tomy!!
+>>>>>>> 965f3705d60636509e680fa2ce06fc7652cb0292
